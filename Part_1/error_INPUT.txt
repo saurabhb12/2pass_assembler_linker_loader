@@ -1,0 +1,6 @@
+************PASS1************
+Line: 115 : Can't find symbol. Found UFEND-
+Line: 225 : Duplicate symbol for 'MAXLEN'. Previously defined at 00000
+
+
+************PASS2************
